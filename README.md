@@ -2,7 +2,7 @@
 마스크 탐지 (오픈소스 SW 프로젝트)  
 ### 개요  
 * Netlify를 사용하여 웹 호스팅
-* TeachableMachine + Python을 활용한 딥러닝 모델 훈련
+* TeachableMachine을 활용한 딥러닝 모델 훈련
 * Kakao 음성 합성 API를 이용한 음성 생성 
 * 공개 데이터셋(Ai-hub, kaggle), 개인 착용 사진을 활용
 ### 📅 프로젝트 선정 및 개발 기간  
